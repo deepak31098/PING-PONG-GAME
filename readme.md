@@ -1,0 +1,5 @@
+### PING PONG GAME
+
+This is a JavaScript-based project that replicates the classic game of Ping Pong. The developer utilized various JavaScript tools and approaches to build the game, including functional programming, window object functionality, intervals, local storage, and asynchronous JavaScript.
+Through this project, the developer was able to demonstrate their strong command of JavaScript and their ability to apply advanced development techniques to build engaging web applications. The use of functional programming allowed for cleaner and more efficient code, while the integration of window object functionality and intervals ensured that the game runs smoothly and responsively.
+The implementation of local storage and asynchronous JavaScript allowed for seamless saving and loading of game data, making the experience more convenient and user-friendly. Overall, this project showcases the developer's proficiency in JavaScript and their ability to build complex and engaging web applications using advanced development techniques.
